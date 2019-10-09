@@ -1,0 +1,23 @@
+{
+	"src_folders": ["tests"],
+
+	"webdriver": {
+		"start_process": true,
+		"server_path": "node_modules/.bin/chromedriver",
+		"port": 9515
+	},
+
+	"page_objects_path": "page_objects",
+
+	"test_settings": {
+		"default": {
+			"launch_url": "http://google.com/",
+			"desiredCapabilities": {
+				"browserName": "chrome",
+				"chromeOptions": {
+					"args": ["--window-size=1366,768"]
+				}
+			}
+		}
+	}
+}

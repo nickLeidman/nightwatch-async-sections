@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="test"
+    errors="0" failures="0" hostname="" id="" package="test" skipped="0"
+    tests="2" time="3.626" timestamp="">
+  
+    <testcase name="Test with selector" classname="test" time="1.355" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test with section and element" classname="test" time="2.271" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
