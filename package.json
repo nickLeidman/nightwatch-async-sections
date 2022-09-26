@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "chromedriver": "^76.0.1",
-    "nightwatch": "^1.2.4"
+    "nightwatch": "^1.7.13"
   }
 }
